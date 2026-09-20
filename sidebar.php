@@ -74,6 +74,8 @@
             <li><a href="#">Revisar Bitácoras</a></li>
             <li><a href="#">Aprobar Entradas</a></li>
             <li><a href="#">Reportes de Alumnos</a></li>
+			<li><a href="#">Reportes de Alumnos2</a></li>
+
         <?php endif; ?>
         
         <?php if ($_SESSION['tipo_id'] == 3): // Menú exclusivo para Operador ?>
