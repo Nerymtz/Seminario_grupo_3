@@ -98,7 +98,7 @@ $result = $conn->query($sql);
         <div class="content-wrapper">
             
             <nav class="navbar">
-                <div class="navbar-title">Sistema Institucional</div>
+                <div class="navbar-title">Sistema Institucional</div>   
                 <div class="user-info">
                     <div>
                         <!-- Uso de variables de sesión originales[cite: 1] -->
