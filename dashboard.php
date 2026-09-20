@@ -67,7 +67,7 @@ if ($_SESSION['tipo_id'] == 3) $tipo_usuario = "Operador";
     <div class="layout-wrapper">
         
         <!-- INCLUIMOS EL SIDEBAR AQUÍ -->
-        <?php include 'sidebar.php'; ?>
+        <?php// include 'sidebar.php'; ?>
 
         <!-- CONTENIDO DERECHO -->
         <div class="content-wrapper">
